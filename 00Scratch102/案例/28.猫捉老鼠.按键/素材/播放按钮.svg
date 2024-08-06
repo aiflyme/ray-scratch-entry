@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="33" height="32.99999809265137" viewBox="-0.5200004577636719 0.4200000762939453 33 32.99999809265137" version="1.1">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Button-b</title>
+    <desc>Created with Sketch.</desc>
+    <defs/>
+    <g id="Page-1" stroke="none" fill-rule="evenodd">
+        <g id="Button-b" fill-rule="nonzero">
+            <circle id="Oval" fill="#FCD39F" cx="16.98" cy="16.92" r="16" stroke-width="1" transform="matrix(1,0,0,1,-1,0)"/>
+            <path d="M 11.09 9 L 11.09 24.9 C 11.0897 25.162 11.2299 25.404 11.4572 25.5342 C 11.6845 25.6644 11.9642 25.6628 12.19 25.53 L 26 17.53 C 26.2286 17.4004 26.3699 17.1578 26.3699 16.895 C 26.3699 16.6322 26.2286 16.3896 26 16.26 L 12.19 8.26 C 11.9467 8.112 11.6395 8.119 11.4032 8.278 C 11.1669 8.437 11.0446 8.7188 11.09 9 Z " id="Shape" fill="#F24E4E" stroke-width="1"/>
+        </g>
+    </g>
+</svg>
